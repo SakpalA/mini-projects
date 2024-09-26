@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.prod-div{
+    width: 200px;
+    border: 1px solid black;
+}
